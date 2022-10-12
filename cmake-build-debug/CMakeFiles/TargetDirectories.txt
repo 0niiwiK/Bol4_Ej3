@@ -1,0 +1,3 @@
+/home/kiwii/Desktop/DEV/Git/Bol4/Ej3/cmake-build-debug/CMakeFiles/Ej3.dir
+/home/kiwii/Desktop/DEV/Git/Bol4/Ej3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kiwii/Desktop/DEV/Git/Bol4/Ej3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
